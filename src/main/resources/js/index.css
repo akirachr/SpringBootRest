@@ -1,0 +1,9 @@
+.book {
+	border-collapse: collapse;
+	border: solid 1px black;
+}
+.book th, .book td {
+	border-collapse: collapse;
+	border: solid 1px black;
+	padding: 1px 15px;
+}
