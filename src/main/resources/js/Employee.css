@@ -1,0 +1,14 @@
+.book {
+	border-collapse: collapse;
+	border: none;
+	width: 550px;
+}
+.indent {
+	width:50px;
+}
+.id {
+	width:100px;
+}
+.name {
+	width:200px;
+}
